@@ -2,7 +2,7 @@
 Android app  - Web Catalog
 
 This app is used to connect and download json data from rest service. When data is downloaded it is stored on Ram chache,
-if Ram chache is full the data is stored temporary on Disk using DiskLruCache library.
+if Ram chache is full the data is stored temporary on Disk using DiskLruCache library. Users can interact with GUI selecting categories and viewing  items. Pictures of items can be zoomed in and zoomed out. ViewPager starts tasks in backgrounds that animates swiping images on display.
 
 List of some used libraries:
   - LruCache
