@@ -1,0 +1,54 @@
+TASK com.example.filipzoricic.online_shop id=5958
+  ACTIVITY com.example.filipzoricic.online_shop/.MainMenuActivity c470988 pid=28865
+    Local FragmentActivity 7848549 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@d030f59
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@d030f59
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{c56503 V.E..... ... 0,0-1440,2560}
+        android.widget.LinearLayout{d0d71e V.E..... ... 0,0-1440,2560}
+          android.view.ViewStub{9aaebff G.E..... ... 0,0-0,0 #102046a android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{7e85dcc V.E..... ... 0,96-1440,2560}
+            android.support.v7.widget.FitWindowsLinearLayout{24c4815 V.E..... ... 0,0-1440,2464 #7f0c003d app:id/action_bar_root}
+              android.support.v7.widget.ViewStubCompat{daf472a G.E..... ... 0,0-0,0 #7f0c003e app:id/action_mode_bar_stub}
+              android.support.v7.widget.ContentFrameLayout{fcc491b V.E..... ... 0,0-1440,2464 #1020002 android:id/content}
+                android.support.v4.widget.DrawerLayout{e238ab8 VFE..... F.. 0,0-1440,2464 #7f0c0051 app:id/drawer_layout}
+                  android.widget.LinearLayout{bb65091 V.E..... ... 0,0-1440,2464}
+                    android.support.v7.widget.Toolbar{a52abf6 V.E..... ... 0,0-1440,224 #7f0c0052 app:id/toolbar}
+                      android.widget.ImageButton{bdc5bf7 VFED..C. ... 0,0-192,224}
+                      android.support.v7.widget.ActionMenuView{8e29a64 V.E..... ... 1440,0-1440,224}
+                    android.widget.FrameLayout{de64cd V.E..... ... 0,224-1440,2464 #7f0c0053 app:id/main_frame_layout}
+                  android.widget.ListView{4f59182 IFED.VC. ... -1040,0-0,2464 #7f0c0054 app:id/main_list_view}
+                    android.widget.LinearLayout{b70c093 V.E..... ... 0,0-1040,600}
+                      android.support.v7.widget.AppCompatImageView{e60f8d0 V.ED.... ... 0,0-1040,600 #7f0c005c app:id/poster_imageView}
+                    android.widget.LinearLayout{bf980c9 V.E...C. ... 0,599-1040,791}
+                      android.support.v7.widget.AppCompatImageView{2ef43ce V.ED.... ... 0,0-192,192 #7f0c006c app:id/imageView1}
+                      android.support.v7.widget.AppCompatTextView{5dcd2ef V.ED.... ... 192,29-410,163 #7f0c006d app:id/side_menu_bar_text_view}
+                    android.widget.LinearLayout{b24d1fc V.E...C. ... 0,790-1040,982}
+                      android.support.v7.widget.AppCompatImageView{b906085 V.ED.... ... 0,0-192,192 #7f0c006c app:id/imageView1}
+                      android.support.v7.widget.AppCompatTextView{5bfceda V.ED.... ... 192,29-518,163 #7f0c006d app:id/side_menu_bar_text_view}
+                    android.widget.LinearLayout{a4daf0b V.E...C. ... 0,981-1040,1173}
+                      android.support.v7.widget.AppCompatImageView{beb11e8 V.ED.... ... 0,0-192,192 #7f0c006c app:id/imageView1}
+                      android.support.v7.widget.AppCompatTextView{3fb8001 V.ED.... ... 192,29-465,163 #7f0c006d app:id/side_menu_bar_text_view}
+        android.view.View{4dbfea6 V.ED.... ... 0,0-1440,96 #102002f android:id/statusBarBackground}
+
+  ACTIVITY com.example.filipzoricic.online_shop/.MainActivity db0d728 pid=28865
+    Local FragmentActivity d5a099b State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@3a630e7
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@3a630e7
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{2d1b9aa I.E..... ... 0,0-1440,2560}
+        android.widget.LinearLayout{a536494 V.E..... ... 0,0-1440,2560}
+          android.view.ViewStub{c9f1b3d G.E..... ... 0,0-0,0 #102046a android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{8395f32 V.E..... ... 0,96-1440,2560}
+            android.support.v7.widget.FitWindowsLinearLayout{e1af483 V.E..... ... 0,0-1440,2464 #7f0c003d app:id/action_bar_root}
+              android.support.v7.widget.ViewStubCompat{84c3600 G.E..... ... 0,0-0,0 #7f0c003e app:id/action_mode_bar_stub}
+              android.support.v7.widget.ContentFrameLayout{4e72e39 V.E..... ... 0,0-1440,2464 #1020002 android:id/content}
+        android.view.View{f9a3c7e V.ED.... ... 0,0-1440,96 #102002f android:id/statusBarBackground}

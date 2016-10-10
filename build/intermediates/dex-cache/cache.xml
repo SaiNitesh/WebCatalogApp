@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_98a7052b3451e83ff7dd5e01708fbdae70994a34/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/.gradle/caches/modules-2/files-2.1/com.jakewharton/disklrucache/2.0.2/93b399470e72c0bc8cb52379943b63c9aa586cd8/disklrucache-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-2.0.2_dd48b9f80f3c998be7e769360b6ac1ffa7c77b18/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="efc9dfc5e28e94fc6a526792281098be0a626985">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b48772c6dbbf57ae1da8cf789dff301f4459ca19/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/.gradle/caches/modules-2/files-2.1/eu.the4thfloor.volley/com.android.volley/2015.05.28/b0b08cc0ac897e596abe6b263a9507cba875b705/com.android.volley-2015.05.28.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-2015.05.28_6db44c1afa11ba6ff39824652c5f85be33509a37/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_e976fba5339592d395ac5393d6442dac2abba283/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_6fee19200437db446b6d07053b00f7233ba4afb0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/exploded-aar/com.github.chrisbanes.photoview/library/1.2.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.chrisbanes.photoview-library-1.2.4_8378b9d0589b40bd23f675ba3c38a35bc3ed28a2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_112b14e0b0629bb246eb8dafc883fe50ac38392f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_972fd52e017bcc59c3ec46942b3f346a302d62be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_779df06e17e2a5e9b0fbd6ad38dc3c2ce0fde710/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="524d60f4edd2e55a2adc8b168e46b36c4a208d4c">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9e7f91a4da1c901d2ec1ce2ea9443a4ee1f660bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_cb39f7911f8343e6b5ff6067353514a01915d861/classes.dex" />
+    </item>
+    <item
+        jar="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/filipzoricic/Desktop/Online_Shop/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_d4793ab72f23ce02baee964419de63793104d488/classes.dex" />
+    </item>
+
+</items>

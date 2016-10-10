@@ -1,0 +1,164 @@
+CURRENT STATS:
+Per-Package Stats:
+  * com.example.filipzoricic.online_shop / u0a222 / v1:
+      * com.example.filipzoricic.online_shop / u0a222 / v1:
+               TOTAL: 80% (54MB-68MB-71MB/50MB-64MB-67MB over 16)
+                 Top: 80% (54MB-68MB-71MB/50MB-64MB-67MB over 16)
+            Bg TOTAL: 14% (22MB-22MB-22MB/17MB-17MB-17MB over 2)
+          (Last Act): 14% (22MB-22MB-22MB/17MB-17MB-17MB over 2)
+            (Cached): 0,29%
+
+Summary:
+  * com.example.filipzoricic.online_shop / u0a222 / v1:
+           TOTAL: 80% (54MB-68MB-71MB/50MB-64MB-67MB over 16)
+             Top: 80% (54MB-68MB-71MB/50MB-64MB-67MB over 16)
+        Bg TOTAL: 14% (22MB-22MB-22MB/17MB-17MB-17MB over 2)
+      (Last Act): 14% (22MB-22MB-22MB/17MB-17MB-17MB over 2)
+        (Cached): 0,29%
+
+Run time Stats:
+  SOn /Norm: +24m36s654ms (running)
+      TOTAL: +24m36s654ms
+
+Memory usage:
+  Top    : 70MB (26 samples)
+  ImpFg  : 24MB (35 samples)
+  ImpBg  : 11MB (5 samples)
+  Service: 220MB (131 samples)
+  Receivr: 112KB (181 samples)
+  Home   : 72MB (8 samples)
+  LastAct: 6,8MB (3 samples)
+  CchAct : 108KB (24 samples)
+  CchEmty: 306MB (148 samples)
+  TOTAL  : 710MB
+  ServRst: 137KB (21 samples)
+
+          Start time: 2016-09-30 02:25:34
+  Total elapsed time: +24m36s699ms (partial) libart.so
+
+AGGREGATED OVER LAST 24 HOURS:
+System memory usage:
+  SOff/Norm: 18 samples:
+    Cached: 129MB min, 287MB avg, 475MB max
+    Free: 7,1MB min, 62MB avg, 251MB max
+    ZRam: 0,00 min, 0,00 avg, 0,00 max
+    Kernel: 405MB min, 432MB avg, 453MB max
+    Native: 27MB min, 34MB avg, 45MB max
+  SOn /Norm: 19 samples:
+    Cached: 117MB min, 249MB avg, 487MB max
+    Free: 46MB min, 54MB avg, 80MB max
+    ZRam: 0,00 min, 0,00 avg, 0,00 max
+    Kernel: 406MB min, 431MB avg, 497MB max
+    Native: 26MB min, 35MB avg, 42MB max
+       Mod : 1 samples:
+    Cached: 280MB min, 280MB avg, 280MB max
+    Free: 121MB min, 121MB avg, 121MB max
+    ZRam: 0,00 min, 0,00 avg, 0,00 max
+    Kernel: 391MB min, 391MB avg, 391MB max
+    Native: 31MB min, 31MB avg, 31MB max
+
+Per-Package Stats:
+  * com.example.filipzoricic.online_shop / u0a222 / v1:
+      * com.example.filipzoricic.online_shop / u0a222 / v1:
+               TOTAL: 12% (46MB-62MB-71MB/44MB-58MB-67MB over 52)
+                 Top: 12% (46MB-62MB-71MB/44MB-58MB-67MB over 52)
+            Bg TOTAL: 1,5% (13MB-18MB-22MB/9,9MB-14MB-17MB over 5)
+          (Last Act): 0,89% (15MB-19MB-22MB/11MB-14MB-17MB over 4)
+            (Cached): 0,60% (13MB-13MB-13MB/9,9MB-9,9MB-9,9MB over 1)
+
+Summary:
+  * com.example.filipzoricic.online_shop / u0a222 / v1:
+           TOTAL: 12% (46MB-62MB-71MB/44MB-58MB-67MB over 52)
+             Top: 12% (46MB-62MB-71MB/44MB-58MB-67MB over 52)
+        Bg TOTAL: 1,5% (13MB-18MB-22MB/9,9MB-14MB-17MB over 5)
+      (Last Act): 0,89% (15MB-19MB-22MB/11MB-14MB-17MB over 4)
+        (Cached): 0,60% (13MB-13MB-13MB/9,9MB-9,9MB-9,9MB over 1)
+
+Run time Stats:
+  SOff/Norm: +3h46m8s369ms
+       Mod : +10s694ms
+  SOn /Norm: +7h8m50s138ms
+       Mod : +49s933ms
+       Low : +187ms
+       Crit: +56s148ms
+      TOTAL: +10h56m55s469ms
+
+Memory usage:
+  Kernel : 431MB (265 samples)
+  Native : 34MB (265 samples)
+  Persist: 394MB (2532 samples)
+  Top    : 124MB (3708 samples)
+  ImpFg  : 104MB (7284 samples)
+  ImpBg  : 9,9MB (3280 samples)
+  Service: 210MB (10918 samples)
+  Receivr: 167KB (10180 samples)
+  Home   : 54MB (428 samples)
+  LastAct: 18MB (771 samples)
+  CchAct : 17MB (482 samples)
+  CchCAct: 4,0MB (61 samples)
+  CchEmty: 195MB (6164 samples)
+  Cached : 262MB (265 samples)
+  Free   : 57MB (265 samples)
+  TOTAL  : 1,9GB
+  ServRst: 1,2MB (4548 samples)
+
+          Start time: 2016-09-29 00:23:09
+  Total elapsed time: +1d2h27m1s154ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+System memory usage:
+  SOff/Norm: 3 samples:
+    Cached: 276MB min, 355MB avg, 417MB max
+    Free: 46MB min, 52MB avg, 61MB max
+    ZRam: 0,00 min, 0,00 avg, 0,00 max
+    Kernel: 425MB min, 441MB avg, 453MB max
+    Native: 27MB min, 29MB avg, 33MB max
+  SOn /Norm: 3 samples:
+    Cached: 209MB min, 274MB avg, 350MB max
+    Free: 46MB min, 63MB avg, 74MB max
+    ZRam: 0,00 min, 0,00 avg, 0,00 max
+    Kernel: 441MB min, 444MB avg, 446MB max
+    Native: 26MB min, 32MB avg, 42MB max
+
+Per-Package Stats:
+  * com.example.filipzoricic.online_shop / u0a222 / v1:
+      * com.example.filipzoricic.online_shop / u0a222 / v1:
+               TOTAL: 68% (46MB-62MB-71MB/44MB-58MB-67MB over 52)
+                 Top: 68% (46MB-62MB-71MB/44MB-58MB-67MB over 52)
+            Bg TOTAL: 8,5% (13MB-18MB-22MB/9,9MB-14MB-17MB over 5)
+          (Last Act): 5,1% (15MB-19MB-22MB/11MB-14MB-17MB over 4)
+            (Cached): 3,4% (13MB-13MB-13MB/9,9MB-9,9MB-9,9MB over 1)
+
+Summary:
+  * com.example.filipzoricic.online_shop / u0a222 / v1:
+           TOTAL: 68% (46MB-62MB-71MB/44MB-58MB-67MB over 52)
+             Top: 68% (46MB-62MB-71MB/44MB-58MB-67MB over 52)
+        Bg TOTAL: 8,5% (13MB-18MB-22MB/9,9MB-14MB-17MB over 5)
+      (Last Act): 5,1% (15MB-19MB-22MB/11MB-14MB-17MB over 4)
+        (Cached): 3,4% (13MB-13MB-13MB/9,9MB-9,9MB-9,9MB over 1)
+
+Run time Stats:
+  SOff/Norm: +22m28s503ms
+  SOn /Norm: +1h32m18s269ms
+      TOTAL: +1h54m46s772ms
+
+Memory usage:
+  Kernel : 444MB (42 samples)
+  Native : 32MB (42 samples)
+  Persist: 393MB (101 samples)
+  Top    : 85MB (296 samples)
+  ImpFg  : 119MB (567 samples)
+  ImpBg  : 8,9MB (391 samples)
+  Service: 213MB (1232 samples)
+  Receivr: 261KB (1428 samples)
+  Home   : 64MB (31 samples)
+  LastAct: 9,3MB (82 samples)
+  CchAct : 6,7MB (40 samples)
+  CchEmty: 292MB (1016 samples)
+  Cached : 290MB (42 samples)
+  Free   : 61MB (42 samples)
+  TOTAL  : 2,0GB
+  ServRst: 446KB (399 samples)
+
+          Start time: 2016-09-29 23:12:51
+  Total elapsed time: +3h37m20s103ms (partial) libart.so

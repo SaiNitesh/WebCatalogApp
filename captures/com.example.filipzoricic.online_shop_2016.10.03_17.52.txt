@@ -1,0 +1,49 @@
+Applications Memory Usage (kB):
+Uptime: 488888552 Realtime: 1149672341
+
+** MEMINFO in pid 8571 [com.example.filipzoricic.online_shop] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap    20663    20548       68     6120    34432    30867     3564
+  Dalvik Heap    22877    22840        0     2056    24408    23681      727
+ Dalvik Other     1312     1312        0       88                           
+        Stack      620      620        0        0                           
+       Ashmem        2        0        0        0                           
+    Other dev        6        0        4        0                           
+     .so mmap     6180     1376     3936     2764                           
+    .apk mmap      657        0      436        0                           
+    .ttf mmap       99        0       92        0                           
+    .dex mmap     4484       88     4396        0                           
+    .oat mmap     3370        0     1396        0                           
+    .art mmap     1903     1392       68      548                           
+   Other mmap       17        8        0        0                           
+   EGL mtrack    43236    43236        0        0                           
+      Unknown      253      252        0      116                           
+        TOTAL   105679    91672    10396    11692    58840    54548     4291
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:    24300
+         Native Heap:    20548
+                Code:    11720
+               Stack:      620
+            Graphics:    43236
+       Private Other:     1644
+              System:     3611
+ 
+               TOTAL:   105679      TOTAL SWAP (KB):    11692
+ 
+ Objects
+               Views:      478         ViewRootImpl:        2
+         AppContexts:        3           Activities:        2
+              Assets:        3        AssetManagers:        2
+       Local Binders:       10        Proxy Binders:       26
+       Parcel memory:        8         Parcel count:       31
+    Death Recipients:        0      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
